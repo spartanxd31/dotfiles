@@ -1,0 +1,26 @@
+{
+  "logoSource": "builtin",
+  "logo": "arch",
+  "colors": [196],               // Red Arch logo (saber color)
+  "separator": "  ▸  ",
+  "keyColor": 196,               // Red keys (labels)
+  "valueColor": 250,             // Light gray values (armor contrast)
+  "paddingLeft": 2,
+  "paddingTop": 1,
+  "paddingBottom": 2,
+  "modules": [
+    "title",
+    "os",
+    "kernel",
+    "uptime",
+    "cpu",
+    "gpu",
+    "memory",
+    "disk",
+    "shell",
+    "terminal",
+    "wm",
+    "theme",
+    "packages"
+  ]
+}
