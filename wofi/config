@@ -1,8 +1,0 @@
-show=drun
-prompt=Run:
-width=600
-lines=10
-allow_markup=true
-insensitive=true
-term=kitty
-no_actions=true
