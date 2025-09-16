@@ -15,6 +15,7 @@
     "bluetooth",
     "network",
     "battery",
+    "power-profiles-daemon",
     "custom/logout"
   ],
   "hyprland/workspaces": {
@@ -146,4 +147,15 @@
     "icon-size": 14,
     "spacing": 10
   },
+  "power-profiles-daemon": {
+    "format": "{icon}",
+    "tooltip-format": "Power profile: {profile}nDriver: {driver}",
+    "tooltip": true,
+    "format-icons": {
+      "default": "",
+      "performance": "",
+      "balanced": "",
+      "power-saver": ""
+    }
+  }
 }
